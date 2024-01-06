@@ -4,7 +4,7 @@ Adopt-Stray-Dogs is an attempt to encourage folks to increase the practice of ad
 #Contributors
 * [Abhiram (gullapalli9482)](https://github.com/gullapalli9482)
 * [Divyansh (Divyansh280)](https://github.com/Divyansh280)
-* [Mainak (Mainakcs)](https://github.com/moyenaak)
+* [Mainak (moyenaak)](https://github.com/moyenaak)
 * [Atharv (atharvkarajgi)](https://github.com/atharvkarajgi)
 
 #Inspiration
