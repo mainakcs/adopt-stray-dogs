@@ -1,10 +1,10 @@
 # adopt-stray-dogs
 Adopt-Stray-Dogs is an attempt to encourage folks to increase the practice of adopting stray dogs and create more awareness regarding this issue. 
-# https://mainakcs.github.io/adopt-stray-dogs/
+# https://moyenaak.github.io/adopt-stray-dogs/
 #Contributors
 * [Abhiram (gullapalli9482)](https://github.com/gullapalli9482)
 * [Divyansh (Divyansh280)](https://github.com/Divyansh280)
-* [Mainak (Mainakcs)](https://github.com/Mainakcs)
+* [Mainak (Mainakcs)](https://github.com/moyenaak)
 * [Atharv (atharvkarajgi)](https://github.com/atharvkarajgi)
 
 #Inspiration
